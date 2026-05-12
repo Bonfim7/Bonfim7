@@ -19,24 +19,8 @@
 </div>
 
 <br>
-
-### 👾 Minhas Contribuições
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Bonfim7/Bonfim7/output/dist/github-contribution-grid-snake.svg" alt="Animação da Cobrinha" width="100%" />
-</div>
-
-<br>
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/Bonfim7">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bonfim7&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="150" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/Bonfim7">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bonfim7&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Linguagens mais usadas" />
-  </a>
 </div>
 
 <br>
