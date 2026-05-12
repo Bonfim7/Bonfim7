@@ -8,21 +8,30 @@
 
 ---
 
+### 👤 Sobre mim
+
+<!-- Preencha com suas informações! -->
+- 🎓 **Formação:** Cursando ADS - Análise e Desenvolvimento de Sistemas na Unoeste.
+- 💡 **Foco Atual:** Desenvolvimento Web, ecossistema PHP/Laravel e resolução de problemas através da tecnologia.
+- 🎯 **Objetivo:** Aprimorar ainda mais meu conhecimento e crescer profissionalmente.
+
+<br>
+
 ### 🚀 Tecnologias e Ferramentas
 
-<div align="left">
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<div align="center">
+  <!-- Ícones gerados via skillicons.dev (formato quadrado da sua imagem) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,mysql,git" alt="Minhas Skills" />
+  </a>
 </div>
 
 <br>
+
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/bonfim7/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bonfim7/Bonfim7/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bonfim7/Bonfim7/output/dist/github-contribution-grid-snake.svg">
+  <img align="center" alt="Animação da cobrinha do GitHub" src="https://raw.githubusercontent.com/Bonfim7/Bonfim7/output/dist/github-contribution-grid-snake.svg">
 </picture>
 
 <br>
