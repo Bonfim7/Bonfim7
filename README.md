@@ -38,6 +38,8 @@
 
 ### 📫 Vamos nos conectar?
 
+<div align="center">
 <a href="https://www.linkedin.com/in/giovani-bonfim-6a71b6354/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="Minhas Skills" />
 </a>
+</div>
