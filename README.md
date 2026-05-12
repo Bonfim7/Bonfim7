@@ -2,8 +2,8 @@
   <img align="right" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" width="90" />
   
   <h2>👋 Olá! Eu sou o Giovani Bonfim!</h2>
-  <p>👨‍💻 <b>Desenvolvedor Full Stack</b> apaixonado por tecnologia e por construir boas soluções.</p>
-  <p>💼 Atualmente atuando como <b>Programador de Sistemas de Informação</b>.</p>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF2D20&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;PHP,+Laravel,+JavaScript,+SQL;Programador+de+Sistemas;Apaixonado+por+tecnologia!" alt="Typing SVG" />
 </div>
 
 ---
@@ -23,7 +23,6 @@
 ### 👾 Minhas Contribuições
 
 <div align="center">
-  <!-- A imagem abaixo VAI FICAR QUEBRADA até o GitHub Actions rodar pela primeira vez e gerar a cobrinha! -->
   <img src="https://raw.githubusercontent.com/Bonfim7/Bonfim7/output/dist/github-contribution-grid-snake.svg" alt="Animação da Cobrinha" width="100%" />
 </div>
 
